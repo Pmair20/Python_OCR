@@ -7,5 +7,5 @@ Code and setup to run OCR with python <br />
 4- The ouput generated will have all the recognised text from the image </b> <br/>
 
 </p>
-  <img align="right" alt="OCR-image" src="https://github.com/Pmair20/Python_OCR/blob/main/OCR_image.png" />
+  <img align="left" alt="OCR-image" src="https://github.com/Pmair20/Python_OCR/blob/main/OCR_image.png" />
 </p>
