@@ -10,7 +10,7 @@ Code and setup to run OCR with python <br />
 </p>
   <img align="left" alt="OCR-image" src="https://github.com/Pmair20/Python_OCR/blob/main/OCR_image.png" />
 </p>
-
+<br />
 <b>Extracted Text<b><br />
 </p>
   <img align="left" alt="OCR-image" src="https://github.com/Pmair20/Python_OCR/blob/main/text_output.PNG" />
